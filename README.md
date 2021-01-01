@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Hilbertnan/Hilbertnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **Hilbertnan/Hilbertnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
@@ -10,6 +9,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Hilbertnan@gmail.com
 - 😄 Pronouns: Hilbertnan
 
--->
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hilbertnan)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
