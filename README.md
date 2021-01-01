@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning GO
 - 📫 How to reach me: Hilbertnan@gmail.com
 - 😄 Pronouns: Hilbertnan
+
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hilbertnan)](https://github.com/anuraghazra/github-readme-stats)
 
